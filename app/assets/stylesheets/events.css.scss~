@@ -1,0 +1,43 @@
+// Place all the styles related to the events controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+h1 {
+
+	color:red;
+	font-size: 250%;
+}
+
+table {
+	margin-bottom: 30px;
+	background-color: #FFFF99;
+}
+
+td {
+	width: 25%;
+}
+
+.first_col {
+	
+	color : blue !important;
+
+}
+
+.module_row .first_col {
+
+	font-size: 125% !important;
+
+}
+
+.module_row .entry_col {
+
+	color : green;
+		font-size: 125%;
+
+}
+
+.entry_col {
+	text-transform: uppercase;
+
+}
